@@ -24,6 +24,6 @@ Solder the light strips in this order:
 ```
 Connect the WS2812B led light strip `in` pin to pin 5 on your arduino / arduino mega / arduino nano
 
-## To run the project
+## Running The Project
 
 Open the project in the Arduino IDE and upload it to the arduino. The arduino will automatically loop through leds when it starts up.
