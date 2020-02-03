@@ -1,5 +1,7 @@
 # led-rave-mask
 
+Learn more here: https://armaizadenwala.com/projects/led-rave-mask/
+
 ## Setup
 
 To setup cut up multiple strips of WS2812B.
