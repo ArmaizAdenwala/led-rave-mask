@@ -29,3 +29,11 @@ Connect the WS2812B led light strip `in` pin to pin 5 on your arduino / arduino 
 ## Running The Project
 
 Open the project in the Arduino IDE and upload it to the arduino. The arduino will automatically loop through leds when it starts up.
+
+
+## Author
+
+Armaiz Adenwala
+
+[Software Engineer Portfolio](https://armaizadenwala.com/)
+
